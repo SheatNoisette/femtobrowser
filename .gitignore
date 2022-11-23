@@ -1,0 +1,15 @@
+# Binaries for programs and plugins
+main
+femtobrowser
+browser/browser
+*.exe
+*.exe~
+*.so
+*.dylib
+*.dll
+
+# Ignore common editor/system specific metadata
+.DS_Store
+.idea/
+.vscode/
+*.iml
